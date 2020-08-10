@@ -1,7 +1,7 @@
 [package]
 authors = ["USAGI.NETWORK / Usagi Ito <the@usagi.network>"]
 categories = ["rust-patterns"]
-description = ".drop_ok` syntax sugar for `Result`. It's instead of `.map(|_|())`."
+description = "`.drop_ok` syntax sugar for `Result`. It's instead of `.map(|_|())`."
 edition = "2018"
 keywords = ["DropOk", "drop_ok", "syntax-sugar", "Result"]
 name = "drop_ok"
